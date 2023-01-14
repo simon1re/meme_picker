@@ -1,4 +1,4 @@
-# co9524955b41abaaf1910dd3d
+# The meme picker
 
 Quick start:
 
